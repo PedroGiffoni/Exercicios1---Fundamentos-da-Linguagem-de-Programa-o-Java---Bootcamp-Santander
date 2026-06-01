@@ -42,7 +42,7 @@ Recebe os valores da base e da altura e calcula sua área.
 
 Recebe o nome e a idade de duas pessoas e calcula a diferença de idade entre elas.
 
-### 0️⃣ Sair
+### 5️⃣ Sair
 
 Encerra a aplicação.
 
